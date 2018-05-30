@@ -3,9 +3,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>This is the welcome page</title>
 </head>
 <body>
-	<h1>Welcome to mywebapp</h1>
+	<h1>Welcome to mywebapp. </h1>
+	<br/>
+	<br/>
+	<h5>Thank you! Visit again. </h1>
+	
 </body>
 </html>
